@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.env
+*build.zip
+*laylamp-95cda-firebase-adminsdk-p0do0-7a36bb076e.json
